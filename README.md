@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, next js, mongo db, node.js**
 
-- 📫 How to reach me **prashantbhandari2006@gmail.com** **ceo@yugantatech.com**
+- 📫 How to reach me **prashantbhandari2006@gmail.com** or **ceo@yugantatech.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
