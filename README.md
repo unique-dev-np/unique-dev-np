@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pra_bh_np" target="blank"><img src="https://img.shields.io/twitter/follow/pra_bh_np?logo=twitter&style=for-the-badge" alt="pra_bh_np" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **WASM, Heavy Tasks on Frontend**
 
 - 👨‍💻 All of my projects are available at [https://www.prasantbhandari.com.np](https://www.prasantbhandari.com.np)
 
